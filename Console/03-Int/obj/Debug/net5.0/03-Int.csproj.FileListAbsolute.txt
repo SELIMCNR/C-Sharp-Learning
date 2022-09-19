@@ -1,0 +1,16 @@
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\C#-programlama\Murat-Yücedağ\C# Console\01-Hello-World\03-Int\bin\Debug\net5.0\03-Int.exe
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\C#-programlama\Murat-Yücedağ\C# Console\01-Hello-World\03-Int\bin\Debug\net5.0\03-Int.deps.json
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\C#-programlama\Murat-Yücedağ\C# Console\01-Hello-World\03-Int\bin\Debug\net5.0\03-Int.runtimeconfig.json
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\C#-programlama\Murat-Yücedağ\C# Console\01-Hello-World\03-Int\bin\Debug\net5.0\03-Int.runtimeconfig.dev.json
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\C#-programlama\Murat-Yücedağ\C# Console\01-Hello-World\03-Int\bin\Debug\net5.0\03-Int.dll
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\C#-programlama\Murat-Yücedağ\C# Console\01-Hello-World\03-Int\bin\Debug\net5.0\03-Int.pdb
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\C#-programlama\Murat-Yücedağ\C# Console\01-Hello-World\03-Int\obj\Debug\net5.0\03-Int.csproj.AssemblyReference.cache
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\C#-programlama\Murat-Yücedağ\C# Console\01-Hello-World\03-Int\obj\Debug\net5.0\03-Int.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\C#-programlama\Murat-Yücedağ\C# Console\01-Hello-World\03-Int\obj\Debug\net5.0\03-Int.AssemblyInfoInputs.cache
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\C#-programlama\Murat-Yücedağ\C# Console\01-Hello-World\03-Int\obj\Debug\net5.0\03-Int.AssemblyInfo.cs
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\C#-programlama\Murat-Yücedağ\C# Console\01-Hello-World\03-Int\obj\Debug\net5.0\03-Int.csproj.CoreCompileInputs.cache
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\C#-programlama\Murat-Yücedağ\C# Console\01-Hello-World\03-Int\obj\Debug\net5.0\03-Int.dll
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\C#-programlama\Murat-Yücedağ\C# Console\01-Hello-World\03-Int\obj\Debug\net5.0\refint\03-Int.dll
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\C#-programlama\Murat-Yücedağ\C# Console\01-Hello-World\03-Int\obj\Debug\net5.0\03-Int.pdb
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\C#-programlama\Murat-Yücedağ\C# Console\01-Hello-World\03-Int\obj\Debug\net5.0\03-Int.genruntimeconfig.cache
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\C#-programlama\Murat-Yücedağ\C# Console\01-Hello-World\03-Int\obj\Debug\net5.0\ref\03-Int.dll
