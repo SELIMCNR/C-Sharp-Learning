@@ -1,0 +1,16 @@
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\C#-programlama\Murat-Yücedağ\C# Console\Console\08-İf-else\bin\Debug\net5.0\08-İf-else.exe
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\C#-programlama\Murat-Yücedağ\C# Console\Console\08-İf-else\bin\Debug\net5.0\08-İf-else.deps.json
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\C#-programlama\Murat-Yücedağ\C# Console\Console\08-İf-else\bin\Debug\net5.0\08-İf-else.runtimeconfig.json
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\C#-programlama\Murat-Yücedağ\C# Console\Console\08-İf-else\bin\Debug\net5.0\08-İf-else.runtimeconfig.dev.json
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\C#-programlama\Murat-Yücedağ\C# Console\Console\08-İf-else\bin\Debug\net5.0\08-İf-else.dll
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\C#-programlama\Murat-Yücedağ\C# Console\Console\08-İf-else\bin\Debug\net5.0\08-İf-else.pdb
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\C#-programlama\Murat-Yücedağ\C# Console\Console\08-İf-else\obj\Debug\net5.0\08-İf-else.csproj.AssemblyReference.cache
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\C#-programlama\Murat-Yücedağ\C# Console\Console\08-İf-else\obj\Debug\net5.0\08-İf-else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\C#-programlama\Murat-Yücedağ\C# Console\Console\08-İf-else\obj\Debug\net5.0\08-İf-else.AssemblyInfoInputs.cache
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\C#-programlama\Murat-Yücedağ\C# Console\Console\08-İf-else\obj\Debug\net5.0\08-İf-else.AssemblyInfo.cs
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\C#-programlama\Murat-Yücedağ\C# Console\Console\08-İf-else\obj\Debug\net5.0\08-İf-else.csproj.CoreCompileInputs.cache
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\C#-programlama\Murat-Yücedağ\C# Console\Console\08-İf-else\obj\Debug\net5.0\08-İf-else.dll
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\C#-programlama\Murat-Yücedağ\C# Console\Console\08-İf-else\obj\Debug\net5.0\refint\08-İf-else.dll
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\C#-programlama\Murat-Yücedağ\C# Console\Console\08-İf-else\obj\Debug\net5.0\08-İf-else.pdb
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\C#-programlama\Murat-Yücedağ\C# Console\Console\08-İf-else\obj\Debug\net5.0\08-İf-else.genruntimeconfig.cache
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\C#-programlama\Murat-Yücedağ\C# Console\Console\08-İf-else\obj\Debug\net5.0\ref\08-İf-else.dll
