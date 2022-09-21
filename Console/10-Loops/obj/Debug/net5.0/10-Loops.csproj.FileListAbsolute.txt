@@ -1,0 +1,16 @@
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\C#-programlama\Murat-Yücedağ\C# Console\Console\10-Loops\bin\Debug\net5.0\10-Loops.exe
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\C#-programlama\Murat-Yücedağ\C# Console\Console\10-Loops\bin\Debug\net5.0\10-Loops.deps.json
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\C#-programlama\Murat-Yücedağ\C# Console\Console\10-Loops\bin\Debug\net5.0\10-Loops.runtimeconfig.json
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\C#-programlama\Murat-Yücedağ\C# Console\Console\10-Loops\bin\Debug\net5.0\10-Loops.runtimeconfig.dev.json
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\C#-programlama\Murat-Yücedağ\C# Console\Console\10-Loops\bin\Debug\net5.0\10-Loops.dll
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\C#-programlama\Murat-Yücedağ\C# Console\Console\10-Loops\bin\Debug\net5.0\10-Loops.pdb
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\C#-programlama\Murat-Yücedağ\C# Console\Console\10-Loops\obj\Debug\net5.0\10-Loops.csproj.AssemblyReference.cache
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\C#-programlama\Murat-Yücedağ\C# Console\Console\10-Loops\obj\Debug\net5.0\10-Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\C#-programlama\Murat-Yücedağ\C# Console\Console\10-Loops\obj\Debug\net5.0\10-Loops.AssemblyInfoInputs.cache
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\C#-programlama\Murat-Yücedağ\C# Console\Console\10-Loops\obj\Debug\net5.0\10-Loops.AssemblyInfo.cs
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\C#-programlama\Murat-Yücedağ\C# Console\Console\10-Loops\obj\Debug\net5.0\10-Loops.csproj.CoreCompileInputs.cache
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\C#-programlama\Murat-Yücedağ\C# Console\Console\10-Loops\obj\Debug\net5.0\10-Loops.dll
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\C#-programlama\Murat-Yücedağ\C# Console\Console\10-Loops\obj\Debug\net5.0\refint\10-Loops.dll
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\C#-programlama\Murat-Yücedağ\C# Console\Console\10-Loops\obj\Debug\net5.0\10-Loops.pdb
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\C#-programlama\Murat-Yücedağ\C# Console\Console\10-Loops\obj\Debug\net5.0\10-Loops.genruntimeconfig.cache
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\C#-programlama\Murat-Yücedağ\C# Console\Console\10-Loops\obj\Debug\net5.0\ref\10-Loops.dll

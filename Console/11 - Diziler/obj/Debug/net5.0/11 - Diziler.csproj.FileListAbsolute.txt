@@ -1,0 +1,16 @@
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\C#-programlama\Murat-Yücedağ\C# Console\Console\11 - Diziler\bin\Debug\net5.0\11 - Diziler.exe
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\C#-programlama\Murat-Yücedağ\C# Console\Console\11 - Diziler\bin\Debug\net5.0\11 - Diziler.deps.json
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\C#-programlama\Murat-Yücedağ\C# Console\Console\11 - Diziler\bin\Debug\net5.0\11 - Diziler.runtimeconfig.json
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\C#-programlama\Murat-Yücedağ\C# Console\Console\11 - Diziler\bin\Debug\net5.0\11 - Diziler.runtimeconfig.dev.json
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\C#-programlama\Murat-Yücedağ\C# Console\Console\11 - Diziler\bin\Debug\net5.0\11 - Diziler.dll
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\C#-programlama\Murat-Yücedağ\C# Console\Console\11 - Diziler\bin\Debug\net5.0\11 - Diziler.pdb
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\C#-programlama\Murat-Yücedağ\C# Console\Console\11 - Diziler\obj\Debug\net5.0\11 - Diziler.csproj.AssemblyReference.cache
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\C#-programlama\Murat-Yücedağ\C# Console\Console\11 - Diziler\obj\Debug\net5.0\11 - Diziler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\C#-programlama\Murat-Yücedağ\C# Console\Console\11 - Diziler\obj\Debug\net5.0\11 - Diziler.AssemblyInfoInputs.cache
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\C#-programlama\Murat-Yücedağ\C# Console\Console\11 - Diziler\obj\Debug\net5.0\11 - Diziler.AssemblyInfo.cs
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\C#-programlama\Murat-Yücedağ\C# Console\Console\11 - Diziler\obj\Debug\net5.0\11 - Diziler.csproj.CoreCompileInputs.cache
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\C#-programlama\Murat-Yücedağ\C# Console\Console\11 - Diziler\obj\Debug\net5.0\11 - Diziler.dll
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\C#-programlama\Murat-Yücedağ\C# Console\Console\11 - Diziler\obj\Debug\net5.0\refint\11 - Diziler.dll
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\C#-programlama\Murat-Yücedağ\C# Console\Console\11 - Diziler\obj\Debug\net5.0\11 - Diziler.pdb
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\C#-programlama\Murat-Yücedağ\C# Console\Console\11 - Diziler\obj\Debug\net5.0\11 - Diziler.genruntimeconfig.cache
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\C#-programlama\Murat-Yücedağ\C# Console\Console\11 - Diziler\obj\Debug\net5.0\ref\11 - Diziler.dll
